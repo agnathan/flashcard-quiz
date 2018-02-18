@@ -1,0 +1,11 @@
+.QuizQuestion {
+  text-align: center;
+}
+
+.QuizQuestion p.question {
+  font-size: 10em;
+  font-family: Times New Roman;
+}
+
+.QuizQuestion input.givenAnswer {
+}
